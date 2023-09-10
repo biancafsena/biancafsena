@@ -1,16 +1,15 @@
-### Hi there 👋
+💫Sobre :
 
-<!--
-**biancafsena/biancafsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 Eu sou a Bianca. Sou fã de tecnologia, Redbull e programação.
 
-Here are some ideas to get you started:
+🖥Atualmente sou desenvolvedor Backend (.NET)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍Aprendendo Python e NodeJs
+
+🧠Entusiasmada com Machine Learning
+
+🖌Curiosa sobre novas tecnologias
+
+
+
+
