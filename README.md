@@ -2,9 +2,9 @@
 
 Hi there 👋 Eu sou a Bianca. Sou fã de tecnologia, Redbull e programação.
 
-🖥Atualmente sou desenvolvedor Backend (.NET)
+🖥Possuo conhecimento como desenvolvedor Backend e Front-End -> (Python, SQL, Angular)
 
-🐍Aprendendo Python e NodeJs
+🐍Aprendendo Python Avançado
 
 🧠Entusiasmada com Machine Learning
 
