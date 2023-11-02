@@ -12,7 +12,19 @@ Hi there 👋 Eu sou a Bianca. Sou fã de tecnologia, Redbull e programação.
 
 ## Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancafsena)
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/biancafsena">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://discordapp.com/bfirmino">
+    <img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>   
+  <a href="https://outlook.live.com/bianca.f.sena">
+    <img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</div>
+
 
 
 ## Linguagens
