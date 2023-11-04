@@ -1,14 +1,24 @@
-💫Sobre :
-
-Hi there 👋 Eu sou a Bianca. Sou fã de tecnologia, Redbull e programação.
+## Olá! Eu sou a Bianca Sena 🖐️
 
 🖥 Possuo conhecimento como desenvolvedor Backend e Front-End -> (Python | SQL Server | MongoDB | Power BI | GIT | Docker | Postman | Angular)
 
 🐍 Aprendendo Python Avançado
 
+
+🎓 Andamento no MBA de Data Sciencie & Artificial Intelligence - FIAP
+
+🎓 Formação na graduação de Analise e Desenvolvimento de Sistemas
+
+
+📖 Livros de triologia: O segredo / Harry Potter ❤️
+
 🧠 Entusiasmada com Machine Learning
 
-🖌 Curiosa sobre novas tecnologias
+🖌 Curiosa sobre novas tecnologias!!
+
+💫 A frase pra vida: **“Eu não tenho sonhos, eu tenho objetivos”** ✅  
+
+
 
 ## Redes
 
