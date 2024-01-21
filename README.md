@@ -58,11 +58,7 @@
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/512px-Eclipse-Luna-Logo.svg.png" width="200" height="60" alt="Eclipse">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60" height="60" alt="Postman">
-
-
-
 </div>
-
 
 
 ## Dados
@@ -73,7 +69,6 @@
     <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancafsena&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
-
 
 
 
