@@ -63,7 +63,7 @@
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="60" height="60" alt="PostgreSQL">
   <img loading="lazy" src="https://cdn.icon-icons.com/icons2/4051/PNG/512/python_pycharm_icon_icon_257066.png" width="70" height="70" alt="Picharm">
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="65" height="65" alt="RStudio">
-  <img loading="lazy" src="https://solutionsreview.com/business-intelligence/files/2020/03/Databricks.png" width="90" height="90" alt="Databrinks">
+  <img loading="lazy" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_689ac3b637ca780ceb5591a5a9bde905/hadoop-hdfs.png" width="150" height="90" alt="Databrinks">
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/confluence-blue.svg" width="150" height="60" alt="Confluence">
   <img loading="lazy" src="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Logo-2003.png" width="160" height="60" alt="ServiceNow">
 
