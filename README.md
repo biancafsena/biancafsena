@@ -58,12 +58,20 @@
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/512px-Eclipse-Luna-Logo.svg.png" width="200" height="60" alt="Eclipse">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60" height="60" alt="Postman">
+  <img loading="lazy" src="https://miro.medium.com/v2/resize:fit:610/1*VIRHl6tESXfPaVOqEW3DeA.png" width="60" height="80" alt="MYSQL">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/220px-Cassandra_logo.svg.png" width="80" height="80" alt="Cassandra">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="80" height="80" alt="PostgreSQL">
+  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/confluence-blue.svg" width="200" height="80" alt="Confluence">
+  <img loading="lazy" src="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Logo-2003.png" width="150" height="60" alt="ServiceNow">
+
 </div>
 
 
 ## Dados
 
-<div style="display: flex; align-items: center;">
+<div sty![image](htt![image](https://github.com/biancafsena/biancafsena/assets/144576297/bc41d439-d730-4ba2-b55a-235924aff569)
+ps://github.com/biancafsena/biancafsena/assets/144576297/8c1b4412-c0c8-4a05-b27c-21f1412c15bd)
+le="display: flex; align-items: center;">
   <a href="https://github.com/biancafsena">
     <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=biancafsena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancafsena&layout=compact&langs_count=7&theme=tokyonight"/>
