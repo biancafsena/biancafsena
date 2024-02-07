@@ -56,13 +56,13 @@
 <div style="display: flex; align-items: center;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/512px-Eclipse-Luna-Logo.svg.png" width="200" height="60" alt="Eclipse">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
-  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="60" height="60" alt="Postman">
-  <img loading="lazy" src="https://miro.medium.com/v2/resize:fit:610/1*VIRHl6tESXfPaVOqEW3DeA.png" width="60" height="80" alt="MYSQL">
-  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/220px-Cassandra_logo.svg.png" width="80" height="80" alt="Cassandra">
-  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="80" height="80" alt="PostgreSQL">
-  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/confluence-blue.svg" width="200" height="80" alt="Confluence">
-  <img loading="lazy" src="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Logo-2003.png" width="150" height="60" alt="ServiceNow">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80"/>
+  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="70" height="70" alt="Postman">
+  <img loading="lazy" src="https://miro.medium.com/v2/resize:fit:610/1*VIRHl6tESXfPaVOqEW3DeA.png" width="65" height="65" alt="MYSQL">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/220px-Cassandra_logo.svg.png" width="70" height="70" alt="Cassandra">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="60" height="60" alt="PostgreSQL">
+  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/confluence-blue.svg" width="150" height="60" alt="Confluence">
+  <img loading="lazy" src="https://logos-world.net/wp-content/uploads/2022/02/ServiceNow-Logo-2003.png" width="160" height="60" alt="ServiceNow">
 
 </div>
 
