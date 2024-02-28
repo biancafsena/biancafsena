@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Bianca Sena 🖐️
 
-🖥 Possuo conhecimento como desenvolvedor Backend e Front-End -> (Python | R | JavaScript | SQL Server | MongoDB | Power BI | GIT | Docker | Postman | Angular)
+🖥 Possuo conhecimento como desenvolvedor Backend e Front-End -> (Python | R | JavaScript | SQL Server | MongoDB | Power BI | Tableau | Databricks | GIT | Docker | Postman | Angular)
 
 🐍 Aprendendo Python Avançado
 
