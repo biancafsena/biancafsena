@@ -5,7 +5,7 @@
 🐍 Aprendendo Python Avançado
 
 
-🎓 Andamento no MBA de Data Sciencie & Artificial Intelligence - FIAP
+🎓 Formação no MBA de Data Sciencie & Artificial Intelligence - FIAP
 
 🎓 Formação na graduação de Analise e Desenvolvimento de Sistemas
 
