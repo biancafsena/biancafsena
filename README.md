@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Bianca Sena 🖐️
 
-🖥 Possuo conhecimento como desenvolvedor Backend e Front-End -> (Python | R | JavaScript | SQL Server | MongoDB | Power BI | Tableau | Databricks | GIT | Docker | Postman | Angular)
+🖥 Possuo conhecimento como desenvolvedor Backend e Front-End -> (Python | R | JavaScript | SQL Server | MongoDB | Power BI | Tableau | Databricks | GIT | Docker )
 
 🐍 Aprendendo Python Avançado
 
@@ -44,7 +44,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="60"/>
   <img loading="lazy" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" width="100" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="60"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
