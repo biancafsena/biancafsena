@@ -3,7 +3,7 @@
 Construo soluções de **Dados, IA e Automação** que escalam em ambientes regulados (bancário e financeiro).  
 Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL/ELT**, **Cloud (AWS & Azure)** e **Power BI**, entregando valor em ambientes críticos e de alta escala.  
 
-🌍 Atuei em projetos no **Santander (BRASIL, ESPANHÃ, CHILE, MÉXICO, ARGENTINA)**, **HSBC**, **PicPay** e **Travelex Confidence**, com foco em **fraudes, pagamentos instantâneos (PIX/SPB)**, integrações de APIs e governança de dados.  
+🌍 Atuei em projetos no **Santander (BRASIL, ESPANHÕL, CHILE, MÉXICO, ARGENTINA)**, **HSBC**, **PicPay** e **Travelex Confidence**, com foco em **fraudes, pagamentos instantâneos (PIX/SPB)**, integrações de APIs e governança de dados.  
 
 📌 Objetivo: aplicar **Inteligência Artificial, Engenharia de Dados e Cloud** para gerar inovação, eficiência operacional e impacto real.  
 
@@ -33,13 +33,25 @@ Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL
 
 ---
 
-## 🛠️ Stack principal
-**Linguagens:** Python, SQL, R, JavaScript (fund.)  
-**Dados/ETL:** Pandas, Airflow, PySpark/Databricks, SQL Server, PostgreSQL, MongoDB  
-**Backend/APIs:** FastAPI, Flask, Django (base), REST  
-**Cloud/DevOps:** AWS, Azure, Docker, GitLab CI/CD, Kubernetes  
-**Analytics/BI:** Power BI, Tableau  
-**IA/ML:** Scikit-learn, Redes Neurais, NLP, Explainable AI (SHAP, LIME)  
+## 🚀 Linguagens Principais
+
+- 🐍 **Python** ██████████████████ 90%  
+- 🗄️ **SQL** ████████████ 70%  
+- 📊 **R** ████████ 50%  
+- 🌐 **JavaScript** ██████ 40%  
+
+---
+
+## 🧠 Bibliotecas & Frameworks de IA / Data
+
+<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="60" height="60" alt="Scikit-learn"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60" alt="TensorFlow"/>
+  <img src="https://keras.io/img/logo.png" width="60" height="60" alt="Keras"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="60" alt="PyTorch"/>
+</div>
 
 ---
 
@@ -68,7 +80,6 @@ Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL
 ## 📊 GitHub Insights
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=biancafsena&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancafsena&layout=compact&langs_count=8&theme=tokyonight" alt="Top langs"/>
 </p>
 
 ---
@@ -76,4 +87,4 @@ Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL
 ## 📬 Contato
 - **LinkedIn:** [/in/biancafsena](https://www.linkedin.com/in/biancafsena)  
 - **Email:** bia.bianca.sena@gmail.com  
-- **Disponibilidade:** remoto BR/LatAm • PJ/CLT • AI/Data/Automation/Backend  
+- **Disponibilidade:** Remoto/Hibrido  BR/LatAm • PJ/CLT • AI/Data/Automation/Backend  
