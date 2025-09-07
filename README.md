@@ -1,70 +1,71 @@
-# Bianca Sena — Senior Python • Data & AI • Automation
+# 👩‍💻 Bianca Sena — Python • Data & AI • Automation
 
-Construo soluções de **Dados, IA e Automação** que escalam em ambientes regulados (bancário/financeiro), com **Python**, **Cloud (AWS & Azure)**, **APIs**, **ETL/ELT** e **Power BI**. Atuei em operações críticas no **Santander (BR, ES, CL, MX, AR)**, integrando dados de **ServiceNow**, **SPB/PIX**, **Open Banking** e pipelines em produção.
+Construo soluções de **Dados, IA e Automação** que escalam em ambientes regulados (bancário e financeiro).  
+Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL/ELT**, **Cloud (AWS & Azure)** e **Power BI**, entregando valor em ambientes críticos e de alta escala.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bfiancafsena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancafsena)
+🌍 Atuei em projetos no **Santander (BR, ES, CL, MX, AR)**, **HSBC**, **PicPay** e **Travelex Confidence**, com foco em **fraudes, pagamentos instantâneos (PIX/SPB)**, integrações de APIs e governança de dados.  
+
+📌 Objetivo: aplicar **Inteligência Artificial, Engenharia de Dados e Cloud** para gerar inovação, eficiência operacional e impacto real.  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-biancafsena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancafsena)
 [![GitHub](https://img.shields.io/badge/GitHub-biancafsena-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancafsena)
-[![Email](https://img.shields.io/badge/Email-bianca.f.sena%40outlook.com-5c5c5c?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bianca.f.sena@outlook.com)
+[![Email](https://img.shields.io/badge/Email-bia.bianca.sena%40gmail.com-5c5c5c?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bia.bianca.sena@gmail.com)
 
 ---
 
-## O que eu entrego
-- **Automação e Integração**: bots e serviços Python/FastAPI para integrar **ServiceNow**, bancos de dados e APIs internas/externas.
-- **Dados em Produção**: pipelines **Airflow/ETL** (SQL + Pandas) com versionamento, testes e observabilidade.
-- **Analytics & BI**: **Power BI** com DAX, modelagem de dados, **SLA/MTTR**, tendências, qualidade e governança.
-- **MLOps/IA aplicada**: preparação de dados, experimentação e entrega de **modelos e features** que geram impacto.
+## 🚀 O que eu entrego
+- **Automação e Integração**: bots e serviços Python/FastAPI integrando **ServiceNow**, APIs e bancos de dados.  
+- **Dados em Produção**: pipelines **Airflow/ETL** (SQL + Pandas), versionamento, testes e observabilidade.  
+- **Analytics & BI**: **Power BI/Tableau**, métricas de SLA/MTTR, governança e storytelling de dados.  
+- **IA aplicada & MLOps**: modelos preditivos (fraude, churn, risco), **LLMs (ChatGPT/Gemini)** e deploy com Docker/K8s.  
 
-> “Eu não tenho sonhos, eu tenho **objetivos**.” ✅
-
----
-
-## Destaques rápidos
-- 5+ anos em tech (banco/finanças). Projetos críticos no **Santander** (BR, ES, CL, MX, AR).
-- **Python avançado**, automação, APIs REST, **GitLab CI/CD**, **Docker**, **K8s**.
-- Multi‑cloud (**AWS, Azure**). Integrações com **SPB/PIX**, **Open Banking**, **DDA**.
-- **ServiceNow** (incidentes/SLAs), **Splunk/Dynatrace/Zabbix**.
-- **MBA em Data Science & AI – FIAP**.
+> “Eu não tenho sonhos, eu tenho **objetivos**.” ✅  
 
 ---
 
-## Stack principal
-**Linguagens:** Python, SQL, JavaScript (fund.), R  
+## 🔥 Destaques rápidos
+- 6+ anos em **TI, Data Science e Automação**.  
+- Projetos críticos em **bancos e fintechs**.  
+- **Python avançado**, ML/NLP, APIs REST, CI/CD.  
+- **Cloud**: AWS (Lambda, S3), Azure (Functions, Pipelines).  
+- **Monitoramento & ITSM**: ServiceNow, Splunk, Zabbix, Dynatrace.  
+- **Formação**: MBA em Data Science & AI – FIAP (2024).  
+
+---
+
+## 🛠️ Stack principal
+**Linguagens:** Python, SQL, R, JavaScript (fund.)  
 **Dados/ETL:** Pandas, Airflow, PySpark/Databricks, SQL Server, PostgreSQL, MongoDB  
-**APIs & Backend:** FastAPI, Flask, Django (base), REST, Auth, testes  
-**Cloud/DevOps:** AWS (Lambda, S3), Azure (Functions, AI), Docker, GitLab CI/CD, Kubernetes  
-**Observabilidade:** Splunk, CloudWatch, Dynatrace, Zabbix  
-**Analytics/BI:** Power BI (DAX/Model), Tableau  
-**ITSM & Operações:** ServiceNow (Incidentes, SLAs, MTTR)
+**Backend/APIs:** FastAPI, Flask, Django (base), REST  
+**Cloud/DevOps:** AWS, Azure, Docker, GitLab CI/CD, Kubernetes  
+**Analytics/BI:** Power BI, Tableau  
+**IA/ML:** Scikit-learn, Redes Neurais, NLP, Explainable AI (SHAP, LIME)  
 
 ---
 
-## Projetos em destaque
-- **Comparador_Changes** — comparador automatizado (Python) para planilhas/Power BI (CI/CD + validação de diffs).  
-  ↳ `python`, `pandas`, `openpyxl`, `gitlab-ci` • *redução de erro humano em releases*  
-  ➜ https://github.com/biancafsena/Comparador_Changes
+## 📂 Projetos em destaque
+- **Fraud Scoring API** — API de detecção de fraude em tempo real com **FastAPI + ML**.  
+  ↳ `python`, `scikit-learn`, `fastapi`, `docker`  
+  ➜ [github.com/biancafsena/fraud_scoring_api](https://github.com/biancafsena/fraud_scoring_api)  
 
-- **Meu_Portfólio (WIP)** — site pessoal com **FastAPI** + HTMX/Tailwind e **PostgreSQL** (deploy em cloud).  
-  ↳ `fastapi`, `htmx`, `tailwind`, `sqlalchemy`, `docker`  
-  ➜ https://github.com/biancafsena/meu_portfolio
+- **Comparador_Changes** — comparador automatizado para planilhas e dashboards Power BI.  
+  ↳ `python`, `pandas`, `openpyxl`, `gitlab-ci`  
+  ➜ [github.com/biancafsena/Comparador_Changes](https://github.com/biancafsena/Comparador_Changes)  
 
-- **Dashboards Operacionais** — KPIs de **MTTR, SLAs e Incidentes** com **Power BI**, camada semântica e governança.  
-  ↳ `power-bi`, `dax`, `sql`, `servicenow`, `sre-metrics`  
-  ➜ (repos/prints internos) *— descrevo sob demanda*
-
-> **Dica para recrutadores:** posso apresentar demo de automação em Python (APIs/ETL) e painéis Power BI (SLAs/MTTR).
+- **Dashboards Operacionais** — KPIs de MTTR, SLAs e incidentes no Power BI.  
+  ↳ `power-bi`, `sql`, `servicenow`  
+  ➜ (prints/repos internos – sob demanda)  
 
 ---
 
-## Formação & Certificações
-- 🎓 **MBA Data Science & AI — FIAP**  
-- 🎓 **ADS — FIAP / Impacta**  
-- 🏅 Cursos: **AWS Data Lake (pipelines)**, **Power BI** (39h), Python Avançado, SQL Server
-
-**Idiomas:** PT‑BR (nativo) • EN (intermediário) • ES (intermediário – atuação com Chile/Espanha/México/Argentina)
+## 🎓 Formação & Certificações
+- MBA **Data Science & AI — FIAP** (2024)  
+- ADS — Faculdade Impacta (2020)  
+- Cursos: **AWS Data Lake (pipelines)**, **Power BI**, **Blockchain**, **Python Avançado**  
 
 ---
 
-## GitHub Insights
+## 📊 GitHub Insights
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=biancafsena&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancafsena&layout=compact&langs_count=8&theme=tokyonight" alt="Top langs"/>
@@ -72,8 +73,7 @@ Construo soluções de **Dados, IA e Automação** que escalam em ambientes regu
 
 ---
 
-## Contato
-- **LinkedIn:** /in/biancafsena  
-- **Email:** bianca.f.sena@outlook.com  
-- **Disponibilidade:** remoto BR/LatAm • PJ/CLT • AI/Data/Automation/Backend
-
+## 📬 Contato
+- **LinkedIn:** [/in/biancafsena](https://www.linkedin.com/in/biancafsena)  
+- **Email:** bia.bianca.sena@gmail.com  
+- **Disponibilidade:** remoto BR/LatAm • PJ/CLT • AI/Data/Automation/Backend  
