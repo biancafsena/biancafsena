@@ -3,7 +3,7 @@
 Construo soluções de **Dados, IA e Automação** que escalam em ambientes regulados (bancário e financeiro).  
 Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL/ELT**, **Cloud (AWS & Azure)** e **Power BI**, entregando valor em ambientes críticos e de alta escala.  
 
-🌍 Atuei em projetos no **Santander (BR, ES, CL, MX, AR)**, **HSBC**, **PicPay** e **Travelex Confidence**, com foco em **fraudes, pagamentos instantâneos (PIX/SPB)**, integrações de APIs e governança de dados.  
+🌍 Atuei em projetos no **Santander (BRASIL, ESPANHÃ, CHILE, MÉXICO, ARGENTINA)**, **HSBC**, **PicPay** e **Travelex Confidence**, com foco em **fraudes, pagamentos instantâneos (PIX/SPB)**, integrações de APIs e governança de dados.  
 
 📌 Objetivo: aplicar **Inteligência Artificial, Engenharia de Dados e Cloud** para gerar inovação, eficiência operacional e impacto real.  
 
