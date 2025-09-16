@@ -1,11 +1,12 @@
-# 👩‍💻 Bianca Sena — Python • Data & AI • Automation
+# 👩‍💻 Bianca Sena — Data Scientist • Python • AI & Automation
 
-Construo soluções de **Dados, IA e Automação** que escalam em ambientes regulados (bancário e financeiro).  
-Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL/ELT**, **Cloud (AWS & Azure)** e **Power BI**, entregando valor em ambientes críticos e de alta escala.  
+Transformo dados em **insights, automação e inteligência** que geram impacto estratégico em ambientes corporativos e regulados (bancos, pagamentos digitais, fintechs).  
 
-🌍 Atuei em projetos no **Santander (BRASIL, ESPANHÕL, CHILE, MÉXICO, ARGENTINA)**, **HSBC**, **PicPay** e **Travelex Confidence**, com foco em **fraudes, pagamentos instantâneos (PIX/SPB)**, integrações de APIs e governança de dados.  
+Atuo há **6+ anos** em **TI, Data Science e Inteligência Artificial**, com entregas em projetos críticos no **Santander (BR, ES, CL, MX, AR)**, **HSBC**, **PicPay** e **Travelex Confidence**.  
 
-📌 Objetivo: aplicar **Inteligência Artificial, Engenharia de Dados e Cloud** para gerar inovação, eficiência operacional e impacto real.  
+Experiência em **Machine Learning (fraudes, churn, risco, NLP, Explainable AI)**, **IA Generativa (ChatGPT, Gemini)** e **engenharia de dados** (pipelines, automações, ETL/ELT, governança).  
+
+📌 **Objetivo:** aplicar **IA, Engenharia de Dados e Cloud** para gerar inovação, eficiência e valor estratégico.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-biancafsena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancafsena)
 [![GitHub](https://img.shields.io/badge/GitHub-biancafsena-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancafsena)
@@ -14,21 +15,23 @@ Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL
 ---
 
 ## 🚀 O que eu entrego
-- **Automação e Integração**: bots e serviços Python/FastAPI integrando **ServiceNow**, APIs e bancos de dados.  
-- **Dados em Produção**: pipelines **Airflow/ETL** (SQL + Pandas), versionamento, testes e observabilidade.  
-- **Analytics & BI**: **Power BI/Tableau**, métricas de SLA/MTTR, governança e storytelling de dados.  
-- **IA aplicada & MLOps**: modelos preditivos (fraude, churn, risco), **LLMs (ChatGPT/Gemini)** e deploy com Docker/K8s.  
+- **Data Science & ML**: modelagem preditiva (fraude, churn, risco), NLP, Explainable AI (SHAP, LIME).  
+- **IA Generativa**: integração de LLMs (ChatGPT, Gemini) em fluxos de análise e automação.  
+- **Engenharia de Dados**: pipelines ETL/ELT com Airflow, Databricks, SQL e Python.  
+- **Cloud & DevOps**: soluções AWS (Lambda, S3) e Azure (Functions, Pipelines).  
+- **Analytics & BI**: dashboards em Power BI/Tableau, storytelling de dados e governança.  
 
 > “Eu não tenho sonhos, eu tenho **objetivos**.” ✅  
 
 ---
 
 ## 🔥 Destaques rápidos
-- 6+ anos em **TI, Data Science e Automação**.  
-- Projetos críticos em **bancos e fintechs**.  
-- **Python avançado**, ML/NLP, APIs REST, CI/CD.  
+- 6+ anos em **Data Science, IA e Automação**.  
+- Experiência internacional (Brasil, Chile, México, Argentina, Espanha).  
+- Projetos críticos em bancos, fintechs e meios de pagamento.  
+- **Python avançado**, ML/NLP, APIs REST, automações e microserviços.  
 - **Cloud**: AWS (Lambda, S3), Azure (Functions, Pipelines).  
-- **Monitoramento & ITSM**: ServiceNow, Splunk, Zabbix, Dynatrace.  
+- **Ferramentas**: Power BI, Tableau, Airflow, Databricks, Docker, Kubernetes.  
 - **Formação**: MBA em Data Science & AI – FIAP (2024).  
 
 ---
@@ -87,4 +90,4 @@ Tenho experiência prática em **Python**, **Machine Learning**, **APIs**, **ETL
 ## 📬 Contato
 - **LinkedIn:** [/in/biancafsena](https://www.linkedin.com/in/biancafsena)  
 - **Email:** bia.bianca.sena@gmail.com  
-- **Disponibilidade:** Remoto/Hibrido  BR/LatAm • PJ/CLT • AI/Data/Automation/Backend  
+- **Disponibilidade:** remoto/híbrido BR/LatAm • PJ/CLT • Data Science, AI, Automation, Backend  
