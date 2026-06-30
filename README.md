@@ -10,7 +10,7 @@ Experiência em **Machine Learning (fraudes, churn, risco, NLP, Explainable AI)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-biancafsena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancafsena)
 [![GitHub](https://img.shields.io/badge/GitHub-biancafsena-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biancafsena)
-[![Email](https://img.shields.io/badge/Email-bia.bianca.sena%40gmail.com-5c5c5c?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bia.bianca.sena@gmail.com)
+
 
 ---
 
