@@ -195,11 +195,16 @@ Atualmente, aprofundo meus conhecimentos em:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Insights
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=biancafsena&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub de Bianca Sena"/>
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancafsena&theme=tokyonight" alt="Resumo das contribuições de Bianca Sena"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biancafsena&theme=tokyonight" alt="Estatísticas do GitHub"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biancafsena&theme=tokyonight" alt="Linguagens mais utilizadas"/>
+
+</div>
 
 ---
 
