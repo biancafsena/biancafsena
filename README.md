@@ -110,6 +110,7 @@ Também possuo experiência em projetos com abrangência internacional, atendend
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![ODBC](https://img.shields.io/badge/ODBC-Database_Connectivity-00599C?style=for-the-badge&logoColor=white)
 
 ---
 
