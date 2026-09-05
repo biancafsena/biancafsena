@@ -176,7 +176,7 @@ Experiência na construção e sustentação de indicadores relacionados a:
   Concluído em 2024
 
 * **Tecnologia em Análise e Desenvolvimento de Sistemas — Faculdade Impacta**
-  Em andamento — conclusão prevista para 2027
+  Concluído em 2020
 
 ---
 
