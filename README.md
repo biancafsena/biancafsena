@@ -169,13 +169,13 @@ Experiência na construção e sustentação de indicadores relacionados a:
 
 ## 🎓 Formação
 
-* **Pós-Tech em Machine Learning Engineering — FIAP**
+* **Pós-Tech em Machine Learning Engineering — FIAP** — 
   Em andamento
 
-* **MBA em Data Science & Artificial Intelligence — FIAP**
+* **MBA em Data Science & Artificial Intelligence — FIAP** — 
   Concluído em 2024
 
-* **Tecnologia em Análise e Desenvolvimento de Sistemas — Faculdade Impacta**
+* **Tecnologia em Análise e Desenvolvimento de Sistemas — Faculdade Impacta** — 
   Concluído em 2020
 
 ---
